@@ -1,5 +1,5 @@
 # Installation
-# https://netflexph.com/code/oavip9tq
-`npm install`
+  https://netflexph.com/code/oavip9tq
 
-`truffle compile`
+
+`
